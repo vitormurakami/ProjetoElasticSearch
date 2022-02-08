@@ -1,4 +1,4 @@
-package com.microService.projetoPessoa.configuration;
+package com.microService.projetoElasticSearch.configuration;
 
 import org.elasticsearch.client.RestHighLevelClient;
 import org.springframework.beans.factory.annotation.Value;

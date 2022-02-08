@@ -1,4 +1,4 @@
-package com.microService.projetoPessoa.exception;
+package com.microService.projetoElasticSearch.exception;
 
 public class PessoaNotFoundException extends RuntimeException{
     public PessoaNotFoundException(String id){

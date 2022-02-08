@@ -1,4 +1,4 @@
-package com.microService.projetoPessoa.document;
+package com.microService.projetoElasticSearch.document;
 
 import org.springframework.data.annotation.Id;
 import org.springframework.data.elasticsearch.annotations.Document;

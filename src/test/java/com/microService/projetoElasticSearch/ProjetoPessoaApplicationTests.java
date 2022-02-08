@@ -1,4 +1,4 @@
-package com.microService.projetoPessoa;
+package com.microService.projetoElasticSearch;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
